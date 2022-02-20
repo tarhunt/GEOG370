@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro to Geographic Information - TARLETON HUNT</title>
+</head>
+<body>
+    <h1>Intro to Geographic Info (GEOG 370) Course Projects</h1>
+    
+    <h2>Homework 6: Census Data Choropleth</h2>
+    <img src = "./choroplethmap.png" width = '1000'>
+
+    <h2>Data used for this project:</h2>
+    <a href="" download>...</a>
+    <br>
+    <a href="" download>...</a>
+    <br>
+    <a href="" download>...</a>
+
+</body>
